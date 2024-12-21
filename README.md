@@ -1,3 +1,6 @@
+该项目为基于pytorch的从零实现的GPT对话模型
+参数量约为三千五百万的小模型
+
 data/train.jsonl文件来自网站：
 https://modelscope.cn/datasets/qiaojiedongfeng/qiaojiedongfeng
 
